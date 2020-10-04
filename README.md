@@ -1,2 +1,2 @@
 # Project2
-project 2 for IS 2043-004
+I'll be the first to admit that this project was very confusing to me. I tried to follow the instructions best i could, i started by creating a repository named "Project 2". I then created a README file as a place where i could explain myself. After that i was intsructed to create a very simple bash script which was named "hello world". After that i followed the rest of the directions which wanted me to create a backup script. 
